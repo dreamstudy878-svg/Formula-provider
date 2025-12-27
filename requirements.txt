@@ -1,0 +1,6 @@
+sympy
+requests
+matplotlib
+rapidfuzz
+numpy
+spacy
