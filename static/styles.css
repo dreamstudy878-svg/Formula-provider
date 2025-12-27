@@ -1,0 +1,10 @@
+.mic-btn {
+    border: none !important;
+    background: none !important;
+    box-shadow: none !important;
+}
+
+.mic-btn i {
+    font-size: 24px;
+    color: #198754;
+}
